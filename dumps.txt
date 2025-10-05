@@ -1,0 +1,85 @@
+DEBUG	stack[c3d3c910]
+in stack_t.cpp:58 	 in stackPop 	 exception: NO PROBLEMS
+INFO	data[40] 
+size: 2 
+capacity: 32
+INFO	!!![0]!!! = 732084508 - LEFT CANAR (expected 732084508)
+INFO	*[1] = 5
+INFO	  *[2]   = 3802 (POIZON)
+INFO	  *[3]   = 3802 (POIZON)
+INFO	  *[4]   = 3802 (POIZON)
+INFO	  *[5]   = 3802 (POIZON)
+INFO	  *[6]   = 3802 (POIZON)
+INFO	  *[7]   = 3802 (POIZON)
+INFO	  *[8]   = 3802 (POIZON)
+INFO	  *[9]   = 3802 (POIZON)
+INFO	  *[10]   = 3802 (POIZON)
+INFO	  *[11]   = 3802 (POIZON)
+INFO	  *[12]   = 3802 (POIZON)
+INFO	  *[13]   = 3802 (POIZON)
+INFO	  *[14]   = 3802 (POIZON)
+INFO	  *[15]   = 3802 (POIZON)
+INFO	  *[16]   = 3802 (POIZON)
+INFO	  *[17]   = 3802 (POIZON)
+INFO	  *[18]   = 3802 (POIZON)
+INFO	  *[19]   = 3802 (POIZON)
+INFO	  *[20]   = 3802 (POIZON)
+INFO	  *[21]   = 3802 (POIZON)
+INFO	  *[22]   = 3802 (POIZON)
+INFO	  *[23]   = 3802 (POIZON)
+INFO	  *[24]   = 3802 (POIZON)
+INFO	  *[25]   = 3802 (POIZON)
+INFO	  *[26]   = 3802 (POIZON)
+INFO	  *[27]   = 3802 (POIZON)
+INFO	  *[28]   = 3802 (POIZON)
+INFO	  *[29]   = 3802 (POIZON)
+INFO	  *[30]   = 3802 (POIZON)
+INFO	!!![31]!!! = 1415399139 - RIGHT CANAR (expected 1415399139)
+
+
+DEBUG	stack[c3d3c910]
+in stack_t.cpp:58 	 in stackPop 	 exception: NO PROBLEMS
+INFO	data[20] 
+size: 1 
+capacity: 16
+INFO	!!![0]!!! = 732084508 - LEFT CANAR (expected 732084508)
+INFO	  *[1]   = 3802 (POIZON)
+INFO	  *[2]   = 3802 (POIZON)
+INFO	  *[3]   = 3802 (POIZON)
+INFO	  *[4]   = 3802 (POIZON)
+INFO	  *[5]   = 3802 (POIZON)
+INFO	  *[6]   = 3802 (POIZON)
+INFO	  *[7]   = 3802 (POIZON)
+INFO	  *[8]   = 3802 (POIZON)
+INFO	  *[9]   = 3802 (POIZON)
+INFO	  *[10]   = 3802 (POIZON)
+INFO	  *[11]   = 3802 (POIZON)
+INFO	  *[12]   = 3802 (POIZON)
+INFO	  *[13]   = 3802 (POIZON)
+INFO	  *[14]   = 3802 (POIZON)
+INFO	!!![15]!!! = 1415399139 - RIGHT CANAR (expected 1415399139)
+
+
+DEBUG	stack[c3d3c910]
+in stack_t.cpp:68 	 in stackPop 	 exception: SIZE_ERROR
+INFO	data[20] 
+size: 1 
+capacity: 16
+INFO	!!![0]!!! = 732084508 - LEFT CANAR (expected 732084508)
+INFO	  *[1]   = 3802 (POIZON)
+INFO	  *[2]   = 3802 (POIZON)
+INFO	  *[3]   = 3802 (POIZON)
+INFO	  *[4]   = 3802 (POIZON)
+INFO	  *[5]   = 3802 (POIZON)
+INFO	  *[6]   = 3802 (POIZON)
+INFO	  *[7]   = 3802 (POIZON)
+INFO	  *[8]   = 3802 (POIZON)
+INFO	  *[9]   = 3802 (POIZON)
+INFO	  *[10]   = 3802 (POIZON)
+INFO	  *[11]   = 3802 (POIZON)
+INFO	  *[12]   = 3802 (POIZON)
+INFO	  *[13]   = 3802 (POIZON)
+INFO	  *[14]   = 3802 (POIZON)
+INFO	!!![15]!!! = 1415399139 - RIGHT CANAR (expected 1415399139)
+
+
